@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.exe
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.deps.json
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.runtimeconfig.json
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.dll
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.AssemblyInfo.cs
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.dll
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Users\Owner\source\repos\PS_30_Borislav\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.csprojAssemblyReference.cache
